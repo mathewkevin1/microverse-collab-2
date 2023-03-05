@@ -6,7 +6,7 @@
     background-color: #eee;
     border-radius: 5px;
     display: flex; 
-    flex-direction: column;   
+    flex-direction: row;   
 }
 .title {
     width: 100%;
@@ -33,6 +33,4 @@ ul{
 
     
 }
-p{
-  text-align: center;  
-}
+
